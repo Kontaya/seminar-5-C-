@@ -1,0 +1,15 @@
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\bin\Debug\net6.0\dz38.exe
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\bin\Debug\net6.0\dz38.deps.json
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\bin\Debug\net6.0\dz38.runtimeconfig.json
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\bin\Debug\net6.0\dz38.dll
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\bin\Debug\net6.0\dz38.pdb
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\obj\Debug\net6.0\dz38.csproj.AssemblyReference.cache
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\obj\Debug\net6.0\dz38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\obj\Debug\net6.0\dz38.AssemblyInfoInputs.cache
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\obj\Debug\net6.0\dz38.AssemblyInfo.cs
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\obj\Debug\net6.0\dz38.csproj.CoreCompileInputs.cache
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\obj\Debug\net6.0\dz38.dll
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\obj\Debug\net6.0\refint\dz38.dll
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\obj\Debug\net6.0\dz38.pdb
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\obj\Debug\net6.0\dz38.genruntimeconfig.cache
+C:\Users\t-mo_\OneDrive\Рабочий стол\5semC#\dz38\obj\Debug\net6.0\ref\dz38.dll
